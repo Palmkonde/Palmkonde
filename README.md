@@ -6,6 +6,8 @@
 Hi!!, I'm from Thailand . As an individual who thrives on structure and logical thinking, I aim to contribute to innovative projects that push the boundaries of what technology can achieve. I am passionate about continuous learning and am eager to connect with like-minded professionals to exchange ideas and collaborate on exciting ventures. 
 --
 ## 🌱 I’m currently learning (￣_￣|||)
+- Computer Science
+- Web development
 ## 🔨 Languages and Tools ヾ(•ω•`)o
 <img align="left" alt="Cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
