@@ -27,4 +27,4 @@ Hi!!, I'm from Thailand . As an individual who thrives on structure and logical 
 <br />
 
 ## 🧑‍💻 Top Programming Languages in my repoヾ(＠⌒ー⌒＠)ノ
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palmkonde&layout=compact)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Palmkonde)](https://github.com/stats-organization/github-stats-extended)
