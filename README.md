@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Chitipat Chanasuek (Palm)
 Hi!!, I'm from Thailand. Enthusiastic in anything about Computer and Engineering.
 
-![profile view count](https://komarev.com/ghpvc/?username=Palmkonde)
+![mambo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNpaWNoa2k0ZmpzbGRzMHN1enB0aTRvenptNDF6bWI5cWl5ZXJ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LV2axjRBXfPJBERrFc/giphy.gif)
 
 ## 🌱 I’m currently learning (￣_￣|||)
 - Computer Science
