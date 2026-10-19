@@ -26,3 +26,4 @@ Hi!!, I'm from Thailand. Enthusiastic in anything about Computer and Engineering
 
 ## 🧑‍💻 Top Programming Languages in my repoヾ(＠⌒ー⌒＠)ノ
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Palmkonde&layout=donut&langs_count=6&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=6&theme=shades-of-purple)
+![ggwp](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNjd2hxNHI2MDFsZzRrdzRta253Z3BhZTgxdmp1N3Vya2JqeHEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oqXNHVuTCyeqmtRzmX/giphy.gif)
