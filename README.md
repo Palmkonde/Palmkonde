@@ -1,29 +1,27 @@
-## Hi there 👋, my name is Chitipat Chanasuek (Palm)
+# Chitipat Chanasuek (Palm)
 Hi!!, I'm from Thailand. Enthusiastic in anything about Computer and Engineering.
 
-![mambo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNpaWNoa2k0ZmpzbGRzMHN1enB0aTRvenptNDF6bWI5cWl5ZXJ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LV2axjRBXfPJBERrFc/giphy.gif)
+<p align="center">
+  <!-- <img src=https://i.giphy.com/LV2axjRBXfPJBERrFc.webp> -->
+  <img width="498" height="481" alt="image" src="https://github.com/user-attachments/assets/be0cc976-435e-4d29-aa46-5f4a15a0a230" />
+</p>
 
-## 🌱 I’m currently learning (￣_￣|||)
-- Anything about computer
-  
-## 🔨 Languages and Tools ヾ(•ω•`)o
-<img align="left" alt="Cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,rust,typescript,java,kotlin,laravel,python" alt="cpp,c,rust,typescript,java,kotlin,laravel,python" />
+  </a>  
+</p>
+<hr/>
 
-## 🧑‍💻 Top Programming Languages in my repoヾ(＠⌒ー⌒＠)ノ
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Palmkonde&layout=donut&langs_count=6&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=6&theme=shades-of-purple)
-![ggwp](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNjd2hxNHI2MDFsZzRrdzRta253Z3BhZTgxdmp1N3Vya2JqeHEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oqXNHVuTCyeqmtRzmX/giphy.gif)
+### Random stuff in my repo
+- [Airplane game](https://github.com/Palmkonde/Airplane_game) -- Final project for introduction to Python 2 course. using only pygame, math, random
+- [Tabdebt](https://github.com/Palmkonde/tabdebt.git) -- Website to collecting unclose tab. using laravel framework
+- [nvda.service](https://github.com/Palmkonde/nvda.service) -- Nvda service on linux
+- [simple_os](https://github.com/Palmkonde/simple_os) -- Write a OS in Rust following blog_os
+- [Competitive Programming](https://github.com/Palmkonde/CompetitiveProgramming) -- My whole high school life
+
+<p align="center">
+  <img height=300 src=https://i.giphy.com/oqXNHVuTCyeqmtRzmX.webp>
+  <img height=300 src=https://i.giphy.com/2zmamokHAKhDiVl8dN.webp>
+  <img height=300 src=https://i.giphy.com/6N9sNy67XOyb1dhHdt.webp>
+</p>
